@@ -3,7 +3,7 @@
 A simple Lovelace card to show ink levels.
 
 ![image](https://github.com/user-attachments/assets/0ebe2710-09f1-4dcd-abde-d609780ec218)
-
+(here: in combination with a tile-card inside a stack)
 
 ## Installation via HACS
 
