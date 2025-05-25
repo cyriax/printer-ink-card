@@ -1,0 +1,9 @@
+{
+  "name": "Printer-Ink-Card",
+  "content_in_root": true,
+  "filename": "printer-ink-card.js",
+  "render_readme": true,
+  "description": "A Lovelace card for displaying Ink-levels in Home Assistant.",
+  "type": "plugin",
+  "domains": ["lovelace"]
+}
