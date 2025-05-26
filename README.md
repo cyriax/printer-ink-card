@@ -27,7 +27,6 @@ resources:
 
 ```yaml
 type: custom:printer-ink-card
-entity: sensor.mfc_j5320dw_status
 colors:
   cyan: sensor.cyan_ink_tank
   magenta: sensor.magenta_ink_tank
